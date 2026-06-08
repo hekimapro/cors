@@ -9,7 +9,7 @@ import (
 )
 
 func main() {
-	fmt.Println("=== CORS Middleware Examples ===\n")
+	fmt.Println("=== CORS Middleware Examples ===")
 
 	// Example 1: Production configuration
 	exampleProductionConfiguration()
